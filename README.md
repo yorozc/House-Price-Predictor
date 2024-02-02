@@ -6,7 +6,7 @@ This program implements a linear regression model to predict house prices. These
 - Pandas
 - Seaborn
 - Scikit-Learn
-Datasets were gathered from Kaggle
+- Datasets were gathered from Kaggle
 
-## Link to explanation video and Demo
+## Link to explanation Demo with resources
 - https://vimeo.com/908924116?share=copy
