@@ -6,5 +6,6 @@ Technologies used to create the project
 - Seaborn
 - Scikit-Learn
 Datasets were gathered from Kaggle
-#Link to explanation video and Demo
+
+## Link to explanation video and Demo
 - https://vimeo.com/908924116?share=copy
