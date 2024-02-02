@@ -1,4 +1,4 @@
-# House-Price-Predictor
+# House-Price-Predictor for CS4480
 This program implements a linear regression model to predict house prices. These predictions come from various features. 
 Technologies used to create the project
 - Python
@@ -6,4 +6,5 @@ Technologies used to create the project
 - Seaborn
 - Scikit-Learn
 Datasets were gathered from Kaggle
-
+#Link to explanation video and Demo
+- https://vimeo.com/908924116?share=copy
